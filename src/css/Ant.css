@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.dark.css';
+/* @import '~antd/dist/antd.css'; */
+
+.filter {
+    height: 32px;
+    margin: 5px;
+}
+
+.head a:link {
+    color: #ffffff !important;
+}
+
+.head a:visited {
+    color: #ffffff;
+}
+
+.head a:hover {
+    color: gray;
+}
